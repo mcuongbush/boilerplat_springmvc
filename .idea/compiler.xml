@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="boilerplate_springMVC" />
+        <module name="lab2509" />
       </profile>
     </annotationProcessing>
   </component>
